@@ -2,7 +2,7 @@
 
 
 ### Description
-Add, remove and search for contacts.
+using data structure contacts list.
 
 ### Skills nurtured:
 Trie for optimized search.
